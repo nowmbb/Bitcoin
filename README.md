@@ -12,4 +12,3 @@ W Salwadorze Bitcoin jest oficjalną walutą <br>
 Z drugiej strony, niektóre państwa w pełni zdelegalizowały kryptowaluty. Są to między innymi Chiny, Egipt, czy Turcja. <br>
 W 2010 roku programista Laszlo Haneycz zapłacił 10 tys. BTC za 2 pizze w restauracji Papa John's Pizza, co wtedy stanowiło wartość ok. 30 dolarów. Obecnie byłyby to 43 miliony dolarów.
 
-## Kalkulator
