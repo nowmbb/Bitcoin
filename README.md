@@ -5,4 +5,11 @@ Koncepcja powstania zdecentralizowanego systemu płatności znacznie przybrała 
 ## Historia kursu Bitcoina
 
 Na początku kurs BTC rósł systematycznie, lecz z niekiedy z pewnymi kryzysami. W 2013 przekroczył 1000 USD i przez następne kilka lat utrzymywał się w takiej wartości. Znacząco się wybił pod koniec 2017 roku, kiedy w niedługim czasie osiągnął 20 tysięcy dolarów. Następnie spadł i wartość 20 tysięcy osiągnął dopiero w grudniu 2020, wtedy jednak zaczął się niesamowicie gwałtowny wzrost,  już w kwietniu 2021 cena jednego bitcoina wyniosła 65 000 USD. Obecnie jego kurs to 1 BTC = 43500 USD = 186 000 PLN
+
+## Ciekawostki
+
+W Salwadorze Bitcoin jest oficjalną walutą <br>
+Z drugiej strony, niektóre państwa w pełni zdelegalizowały kryptowaluty. Są to między innymi Chiny, Egipt, czy Turcja. <br>
+W 2010 roku programista Laszlo Haneycz zapłacił 10 tys. BTC za 2 pizze w restauracji Papa John's Pizza, co wtedy stanowiło wartość ok. 30 dolarów. Obecnie byłyby to 43 miliony dolarów.
+
 ## Kalkulator
